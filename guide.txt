@@ -1,0 +1,7 @@
+the inboxguaranteeddist is the sharable file for the sender to be used on desktop
+
+the senderfrontend and senderbackend is the sender fullpackage
+
+heinboxguaranteeddesktopversionbuild  is the i can edit to run npm run build to get the .exe file
+after running the senderfrontend build 
+i will move the frontend build file into the backend npm run build dist folder
